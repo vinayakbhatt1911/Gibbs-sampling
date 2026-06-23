@@ -28,3 +28,11 @@ find_score()
 Calculates motif conservation score.
 Gibbs()
 Main Gibbs Sampling algorithm.
+
+Enter the no of DNA sequence:3
+Enter DNA Squence:ATGCGA
+Enter DNA Squence:ATGAGA
+Enter DNA Squence:ATGCGT
+Enter K value:3
+The motif set is: ['ATG', 'ATG', 'ATG']
+The Score is: 0
